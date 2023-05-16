@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Travis (aka @Tks-Minion)
-- 👀 I’m interested in software development, both front-end and back-end
-- 🌱 I’m currently learning and will likely always be learning something new! Formally studied software development with a focus on C# and have have experience with HTML, CSS, JavaScript.
-- 💥 I'm new here and still picking up on things
+
+I am neither especially clever nor especially gifted. I am only very, very curious.
+
+Normal is overrated, weird is good, so I am weird.
+
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me ... -->
 
