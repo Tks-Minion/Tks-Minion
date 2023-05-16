@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Travis (aka @Tks-Minion)
+👋 Hi, I’m Travis (aka @Tks-Minion)
 
 I am neither especially clever nor especially gifted. I am only very, very curious.
 
